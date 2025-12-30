@@ -1,0 +1,7 @@
+tensorFlow
+pandas 
+numpy
+requests 
+json
+time
+csv
