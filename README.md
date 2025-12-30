@@ -34,3 +34,6 @@ TensorFlow / Keras (LSTM implementation)
 Pandas & NumPy (Data manipulation)
 
 Requests (API Scraping)
+
+Training data:
+Coursera reviews, https://www.kaggle.com/datasets/septa97/100k-courseras-course-reviews-dataset
